@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 import gatorLogo from './gator.gif';
+=======
+import logo from './gator.gif';
+>>>>>>> Stashed changes
 import './App.css';
 
 function App() {
